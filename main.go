@@ -8,8 +8,8 @@ import (
 )
 
 func Toto() {
-	m := math.Add(10, 10)
-	m2 := mathv2.Addionne(10, 10)
+	m := math.Add(100, 100)
+	m2 := mathv2.Addionne(400, 400)
 	fmt.Println(m)
 	fmt.Println(m2)
 }
